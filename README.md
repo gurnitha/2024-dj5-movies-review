@@ -23,3 +23,9 @@
         new file:   movie/models.py
         new file:   movie/tests.py
         new file:   movie/views.py
+
+
+#### 3. Register movie app to config/settings.py
+
+        modified:   README.md
+        modified:   config/settings.py
