@@ -29,3 +29,12 @@
 
         modified:   README.md
         modified:   config/settings.py
+
+
+#### 4. Hello World!
+
+        modified:   README.md
+        modified:   config/urls.py
+        modified:   movie/views.py
+
+        Tested :)
