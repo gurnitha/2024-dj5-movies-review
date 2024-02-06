@@ -38,3 +38,13 @@
         modified:   movie/views.py
 
         Tested :)
+
+
+#### 5. Membuat Home page
+
+        modified:   README.md
+        new file:   movie/templates/home.html
+        modified:   movie/views.py
+
+        :)
+
