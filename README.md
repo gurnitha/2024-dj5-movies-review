@@ -48,3 +48,13 @@
 
         :)
 
+
+#### 6. Membuat About page
+
+        modified:   README.md
+        modified:   config/urls.py
+        new file:   movie/templates/about.html
+        modified:   movie/views.py
+
+        :)
+
