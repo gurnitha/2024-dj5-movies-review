@@ -58,3 +58,12 @@
 
         :)
 
+
+#### 7. Menampilkan data statis pada Home page
+
+        modified:   README.md
+        modified:   movie/templates/home.html
+        modified:   movie/views.py
+
+        :)
+

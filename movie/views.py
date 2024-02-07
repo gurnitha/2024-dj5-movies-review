@@ -6,8 +6,7 @@ from django.http import HttpResponse
 # Create your views here.
 
 def home(request):
-    # return HttpResponse('Hello World!')
-    return render(request, 'home.html')
+    return render(request, 'home.html', {'nama_saya': 'I NYOMAN GURNITHA' })
 
 def about(request):
     return render(request, 'about.html')
