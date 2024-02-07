@@ -67,3 +67,11 @@
 
         :)
 
+
+#### 8. Menambahkan Bootstrap pada Home page
+
+        modified:   README.md
+        modified:   movie/templates/home.html
+
+        :)
+
