@@ -82,3 +82,12 @@
         modified:   config/urls.py
         new file:   movie/urls.py
         modified:   movie/views.py
+
+
+#### 9. Restrukturisasi proyek part 2: Templates
+
+        modified:   README.md
+        modified:   config/settings.py
+        modified:   movie/views.py
+        renamed:    movie/templates/about.html -> templates/movie/about.html
+        renamed:    movie/templates/home.html -> templates/movie/home.html
