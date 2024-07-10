@@ -75,3 +75,10 @@
 
         :)
 
+
+#### 8. Restrukturisasi proyek part 1: Urls dan Views
+
+        modified:   README.md
+        modified:   config/urls.py
+        new file:   movie/urls.py
+        modified:   movie/views.py
