@@ -91,3 +91,9 @@
         modified:   movie/views.py
         renamed:    movie/templates/about.html -> templates/movie/about.html
         renamed:    movie/templates/home.html -> templates/movie/home.html
+
+
+#### 10. Membuat form pencarian (search)
+
+        modified:   README.md
+        modified:   templates/movie/home.html
